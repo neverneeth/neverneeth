@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=neverneeth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neverneeth" alt="neverneeth" /></a> </p>
 <!--
 **neverneeth/neverneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
