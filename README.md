@@ -1,2 +1,2 @@
 ## Hi there 👋
-### More project on the way. Hold on...
+### Checkout my implementation of tic-tac-toe
