@@ -1,6 +1,5 @@
 # Hi I'm Navaneeth! 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neverneeth)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
 
