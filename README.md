@@ -19,6 +19,4 @@ I'm a budding developer passionate about diving deep into the world of **HTML**,
 
 - **Currently Working On**: A whole lot of web development 💻
 
-
-Thank you for stopping by! 😊
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neverneeth)](https://github.com/anuraghazra/github-readme-stats)
