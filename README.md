@@ -19,4 +19,4 @@ I'm a budding developer passionate about diving deep into the world of **HTML**,
 
 - **Currently Working On**: A whole lot of web development 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverneeth)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neverneeth&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
