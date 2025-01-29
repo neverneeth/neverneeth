@@ -17,7 +17,7 @@ I'm a budding developer passionate about diving deep into the world of **HTML**,
 - **Java**: Learning object-oriented programming and backend logic.
 
 
-- **Currently Working On**: A [tic-tac-toe](https://github.com/neverneeth/tic-tac-toe.git) implementation 💻
+- **Currently Working On**: A whole lot of web development 💻
 
 
 Thank you for stopping by! 😊
